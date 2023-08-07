@@ -1,8 +1,8 @@
-<h1>Quiz Game</h1>
+<h1>Computer Hardware Quiz </h1>
 
 
 <h2>Description</h2>
-Hardware Quiz Game developed in JavaScript.
+Hardware Quiz developed in JavaScript.
 <br />
 
 
