@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Hardware Quiz Game devolped in JavaScript.
+Hardware Quiz Game developed in JavaScript.
 <br />
 
 
